@@ -1,0 +1,4 @@
+execution
+node_modules
+.env
+Dockerfile
